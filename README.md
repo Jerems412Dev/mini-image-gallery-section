@@ -9,4 +9,4 @@ It's a simple Image Gallery
 
 ## Link
 
-Here's a [link](https://hover-interaction.vercel.app/) for Demo website
+Here's a [link](https://mini-image-gallery-section.vercel.app/) for Demo website
